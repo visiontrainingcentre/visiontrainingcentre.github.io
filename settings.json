@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Night Owl",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.linkedEditing": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true
+}
